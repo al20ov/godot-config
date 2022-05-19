@@ -13,7 +13,7 @@ To use my config, simply download `editor_settings-3.tres` from this repo and co
 + 1.5x scaling
 + Alien theme
 + External code editor (VSCode in my case)
-+ Custom interface font (Inter Medium, make sure to download the latest version of the font and put it in `$HOME/.fonts`). Filename is named `Inter-Medium.otf`, but you should change this to whatever your favorite font is and where exactly it is on your system
++ Custom interface font (Inter Medium, make sure to download the latest version of the font and put it in `$HOME/.fonts`). File is named `Inter-Medium.otf`, but you should change this to whatever your favorite font is and where exactly it is on your system
 + Custom code font (kinda useless as I'm using an external text editor)
 + 0 width borders because borders are kind of useless in the UI
 
